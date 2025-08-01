@@ -576,7 +576,7 @@ html {
     display: flex;
     width: 148px;
     height: 56px;
-    border: #574D9C ;
+    border: #574D9C;
     border-radius: 5px;
     border-width: 1px;
     background: #ffffff;
@@ -703,4 +703,463 @@ html {
     text-transform: uppercase;
     color: #323A5B;
     margin-left: 50px;
+}
+
+
+
+.our-solutions {
+    width: 1080px;
+    height: 1111px;
+    border-bottom-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    background: #574D9C;
+}
+
+
+
+.our-solution {
+    width: 314px;
+    height: 65px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 51px;
+    line-height: 64.8px;
+    letter-spacing: 0.68px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 72px;
+    color: #FFFFFF;
+}
+
+
+
+.our-solition-buttons {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background: #574D9C;
+    margin-top: 100px;
+    gap: 16px;
+    justify-content: center;
+}
+
+
+.turn-an-offer-to-all-cash {
+    width: 351px;
+    height: 60px;
+    border-radius: 6.8px;
+    border-width: 1px;
+    background: #FFFFFF;
+    color: #6157AB;
+    border: none;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 2.32px;
+    text-transform: uppercase;
+
+}
+
+
+.buy-before-you-sell {
+    width: 279px;
+    height: 60px;
+    border-radius: 6.8px;
+    border-width: 1px;
+    background: none;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 2.32px;
+    text-transform: uppercase;
+    border-color: #FFFFFF;
+}
+
+
+.save-an-existing-deal {
+    width: 296px;
+    height: 60px;
+    border-radius: 6.8px;
+    border-width: 1px;
+    background: none;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 2.32px;
+    text-transform: uppercase;
+    border-color: #FFFFFF;
+}
+
+
+
+.turn-an-offer {
+    height: 643px;
+    width: 100%;
+    background: #574D9C;
+    margin-top: 88px;
+}
+
+
+.arrow-left {
+    width: 94px;
+    height: 94px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+
+
+
+.family {
+    width: 752px;
+    height: 643px;
+    border-radius: 12px;
+    background: #ffffff;
+    margin-left: 164px;
+    margin-top: -138px;
+}
+
+.family-img-container {
+    position: relative;
+    width: 324px;
+    height: 175px;
+}
+
+.family-img {
+    width: 324px;
+    height: 175px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.avatar {
+    width: 14px;
+    height: 17px;
+}
+
+
+.avatar-img-wrapper {
+    position: absolute;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    background: #7569CF;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    left: 35px;
+    top: 35px;
+}
+
+
+.orlando-fl-wrapper {
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    background: #333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: -33px;
+    bottom: -32px;
+}
+
+
+.orlando-fl {
+    width: 94px;
+    height: 17px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    line-height: 16.5px;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+
+.info-family {
+    width: 324px;
+    height: 397px;
+    background: #E7ECEE45;
+    margin-left: 32px;
+    margin-top: 33px;
+}
+
+.line-text {
+    display: flex;
+    height: 30px;
+    width: 285px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 7px;
+}
+
+
+.line-family {
+    width: 80px;
+    height: 1px;
+    background: #C7C1F3;
+}
+
+.home-won-with {
+    width: 111px;
+    height: 30px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    line-height: 30px;
+    letter-spacing: 1.1px;
+    text-transform: uppercase;
+    color: #363B3D;
+}
+
+
+.apparaisal-protection {
+    width: 84px;
+    height: 67px;
+    margin-top: 26px;
+    margin-left: 204px;
+}
+
+
+.line-family-info {
+    width: 284px;
+    height: 1px;
+    background: #C7C1F3;
+    margin: 0 auto;
+    margin-top: 26px;
+}
+
+
+.the-buyers-the-seller {
+    display: flex;
+    height: 162px;
+    width: 275px;
+    margin: 0 auto;
+    margin-top: 29px;
+    flex-direction: column;
+}
+
+
+
+.the-buyres-info {
+    display: flex;
+    height: 60px;
+    width: 275px;
+    justify-content: center;
+    align-items: center;
+    gap: 49px;
+}
+
+
+
+.the-seller-info {
+    display: flex;
+    height: 60px;
+    width: 275px;
+    margin-top: 42px;
+    justify-content: center;
+    align-items: center;
+    gap: 51px;
+}
+
+
+
+.the-buyers {
+    width: 45px;
+    height: 60px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #363B3D;
+}
+
+
+.buyers-info {
+    width: 180px;
+    height: 44px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 21.6px;
+    letter-spacing: 0%;
+    color: #636769;
+}
+
+
+
+.the-seller {
+    width: 43px;
+    height: 60px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 11px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #363B3D;
+}
+
+
+.seller-info {
+    width: 181px;
+    height: 44px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 21.6px;
+    letter-spacing: 0%;
+    color: #636769;
+}
+
+
+.turn-text {
+    height: 437px;
+    width: 285px;
+    margin-left: 400px;
+    margin-top: -500px;
+}
+
+
+
+.turn-an-offer-to-all {
+    width: 266px;
+    height: 71px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 32px;
+    line-height: 35.2px;
+    letter-spacing: 0.16px;
+    color: #2B2B2B;
+}
+
+
+
+
+.preapproved {
+    width: 285px;
+    height: 90px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    margin-top: 37px;
+    color: #636769;
+}
+
+
+
+.learn-more {
+    width: 135px;
+    height: 54px;
+    border-radius: 5px;
+    background: #7569CF;
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.5px;
+    border: none;
+    margin-top: 66px;
+}
+
+
+
+.line-preappoved {
+    width: 285px;
+    height: 1px;
+    background: #9AA6AC;
+    margin-top: 63px;
+}
+
+.book-img {
+    height: 30px;
+    width: 207px;
+    margin-top: 25px;
+    display: flex;
+    gap: 11px;
+    align-items: center;
+}
+
+.book {
+    width: 24px;
+    height: 30px;
+}
+
+
+.read-the-success-story {
+    width: 172px;
+    height: 30px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0%;
+    color: #6157AB;
+}
+
+
+
+
+.arrow-right {
+    position: relative;
+    width: 94px;
+    height: 94px;
+    margin-left: 800px;
+    bottom: 500px;
+}
+
+
+.pages {
+    display: flex;
+    height: 16px;
+    width: 100%;
+    margin-top: 40px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+
+.page {
+    width: 16px;
+    height: 16px;
+    border-radius: 100px;
+    border-width: 1px;
+    
+}
+
+
+.colored-page {
+    border-color: #FFFFFF;
+    background: #FFFFFF;
+}
+
+.uncolored-page{
+    background: none;
+    border-color: #FFFFFF;
 }
