@@ -1500,7 +1500,6 @@ footer {
 @media screen and (max-width: 1439px) {
   .container {
     width: 800px;
-    height: 5433px;
     margin: 0 auto;
     background: #F5F4F2;
 
@@ -1725,11 +1724,13 @@ footer {
 
 
 .texts-buyers {
+    position: relative;
     height: 494px;
     width: 38px;
     background: #FFFFFF;
     display: flex;
     flex-direction: column;
+    left: -40px;
 }
 
 
@@ -1805,11 +1806,12 @@ footer {
 
 .photo-zone {
     height: 494px;
-    width: 650px;
+    width: 600px;
     display: flex;
     background: #FFFFFF;
     justify-content: center;
     gap: 85px;
+    padding-right: 250px;
 }
 
 
@@ -2963,7 +2965,7 @@ footer {
 
 @media screen and (max-width: 767px) {
  .container {
-    width: 500px;
+    width: 412px;
     height: 5433px;
     margin: 0 auto;
     background: #F5F4F2;
@@ -3009,7 +3011,7 @@ footer {
 
 .main-img {
     position: absolute;
-    top: 0;
+    top: 350px;
     right: 0%;
     width: 250px;
     height: 250px;
@@ -3138,22 +3140,23 @@ footer {
     line-height: 64.8px;
     letter-spacing: 0.68px;
     text-align: center;
-    width: 600px;
+    width: 412px;
     height: 65px;
     padding: 72px;
     left: -50px;
+    top: -30px;
 }
 
 .button-group-section {
     position: relative;
-    width: 380px;
+    width: 300px;
     height: 60px;
     display: flex;
     justify-content: space-between;
     padding: 0 105px;
     margin: 25px;
     gap: 10px;
-    left: -120px;
+    left: -150px;
 }
 
 .button-colored {
@@ -4252,7 +4255,7 @@ footer {
 .phone {
     width: 250px;
     height: 250px;
-    margin-left: 270px;
+    margin-left: 230px;
     margin-top: -354px;
 }
 
@@ -4261,7 +4264,7 @@ footer {
 
 footer {
     position: relative;
-    width: 500px;
+    width: 412px;
     height: 723px;
     background: #000;
     top: 2670px;
