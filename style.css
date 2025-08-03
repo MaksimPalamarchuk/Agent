@@ -1505,6 +1505,8 @@ footer {
 
 }
 
+
+
 .header {
     height: 1200px;
     height: 84px;
@@ -1735,7 +1737,10 @@ footer {
 
 
 
-
+.first{
+    width: 0px;
+    height: 0px;
+}
 
 
 
@@ -2551,7 +2556,7 @@ footer {
     font-size: 32px;
     line-height: 35.2px;
     letter-spacing: 0.16px;
-    color: #2B2B2B;
+    color: #ffffff;
 }
 
 
@@ -2567,7 +2572,7 @@ footer {
     line-height: 30px;
     letter-spacing: 0%;
     margin-top: 37px;
-    color: #636769;
+    color: #ffffff;
 }
 
 
@@ -2621,7 +2626,7 @@ footer {
     font-size: 16px;
     line-height: 30px;
     letter-spacing: 0%;
-    color: #6157AB;
+    color: #ffffff;
 }
 
 
@@ -2971,6 +2976,13 @@ footer {
     background: #F5F4F2;
 
 }
+
+.fix{
+    position: relative;
+    top: 50px;
+    left: -250px;
+}
+
 
 .header {
     height: 412px;
@@ -4065,7 +4077,7 @@ footer {
     font-size: 21px;
     line-height: 35.2px;
     letter-spacing: 0.16px;
-    color: #2B2B2B;
+    color: #ffffff;
     left: -150px;
 }
 
@@ -4083,7 +4095,7 @@ footer {
     line-height: 30px;
     letter-spacing: 0%;
     margin-top: 37px;
-    color: #636769;
+    color: #ffffff;
     left: -150px;
 }
 
