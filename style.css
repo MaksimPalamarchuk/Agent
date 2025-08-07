@@ -1832,6 +1832,33 @@ footer {
         color: #636769;
     }
 
+    .clock {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: #000;
+        border: 10px solid gold;
+        box-shadow: 2px 2px 15px 15px #555;
+        margin-top: 620px;
+        left: -800px;
+        top: 700px;
+        z-index: 1;
+    }
+
+    .number,
+    .line {
+        display: flex;
+        justify-content: center;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        position: absolute;
+        font-size: 3em;
+        color: gold;
+        text-shadow: 1px 1px 3px black;
+    }
+
     .main {
         position: relative;
         height: 743px;
@@ -3319,6 +3346,33 @@ footer {
         display: flex;
         flex-direction: column;
         gap: 35px;
+    }
+
+    .clock {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background: #000;
+        border: 10px solid gold;
+        box-shadow: 2px 2px 15px 15px #555;
+        margin-top: 620px;
+        left: -900px;
+        top: 700px;
+        z-index: 1;
+    }
+
+    .number,
+    .line {
+        display: flex;
+        justify-content: center;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        position: absolute;
+        font-size: 3em;
+        color: gold;
+        text-shadow: 1px 1px 3px black;
     }
 
     .main-img {
