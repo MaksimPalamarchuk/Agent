@@ -164,6 +164,19 @@ document.addEventListener("DOMContentLoaded", () => {
     }, 2000)
 });
 
+const s = document.querySelector(".sec")
+const m = document.querySelector(".min")
+const h = document.querySelector(".hour")
+setInterval(()=>{
+  const now =new Date()
+  const sec =  now.getSeconds()
+  const min =  now.getMinutes()
+  const hr =  now.getHours()
+  
+  s.style.transform = `rotate(${sec * 6}deg)`
+  m.style.transform = `rotate(${min * 6}deg)`
+  h.style.transform = `rotate(${hr * 30 + min * 0.5}deg)`
+},1000)
 
 
 
